@@ -1,4 +1,4 @@
-# Optimization-of-TCP-using-NBC-via-Incremental-and-Decremental-Learning
+# Optimization-of-TCP-based-on-NBC-via-Incremental-and-Decremental-Learning
 This repository contains all the materials concerning the master thesis: **Optimization of Transductive Conformal Predictors using Naive Bayes Classifier via Incremental and Decremental Learning**.
 
 # Code Structure
